@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Git Square</string>
+    <string name="filter">Filter Contribution</string>
+    <string name="activity_name">Square Contribs</string>
+</resources>
